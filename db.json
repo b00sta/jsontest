@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "column-one": 1,
+      "column-two": 2
+    },
+    {
+      "column-one": 3,
+      "column-two": 4
+    }
+  ]
+}
